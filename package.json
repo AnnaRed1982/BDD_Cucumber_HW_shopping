@@ -1,0 +1,23 @@
+{
+  "name": "bdd_cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaRed1982/BDD_Cucumber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaRed1982/BDD_Cucumber/issues"
+  },
+  "homepage": "https://github.com/AnnaRed1982/BDD_Cucumber#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^10.0.1"
+  }
+}
